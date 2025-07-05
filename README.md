@@ -23,8 +23,3 @@ This is a **basic calculator** built using C# and Windows Forms as a learning pr
 ## 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/57188602-87a0-4294-ba71-34ba1d8de7eb)
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/calculator.git
